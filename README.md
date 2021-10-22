@@ -16,7 +16,7 @@
     MacOS Desktop app for Google Messages built using Electron
     <br />
     <br />
-    <a href="https://messages.google.com/web/"><strong>Here's the original website »</strong></a>
+    <a href="https://github.com/Skyline-9/Google-Messages-App/releases/tag/v1.0.0"><strong>Download latest release here »</strong></a>
     <br />
     <br />
   </p>
